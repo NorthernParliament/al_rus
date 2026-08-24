@@ -911,3 +911,6 @@ img.fog-effect-red {
     /* mix-blend-mode: screen; (для тумана) или overlay */
 }
 
+.temp_red {
+    color: red;
+}

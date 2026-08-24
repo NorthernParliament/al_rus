@@ -66,6 +66,16 @@ baltimore1?:
   img: "/img/port/eagle/balt1.png"
   class: "blob"
 
+bennington:
+  name: "Беннингтон"
+  img: "/img/port/eagle/benn1.webp"
+  class: "blob"
+
+bennington_rad:
+  name: "📡Беннингтон"
+  img: "/img/port/eagle/benn1rad.webp"
+  class: "blob"
+
 bunker_hill:
   name: "Банкер Хилл"
   img: "/img/port/eagle/bunk1.png"
@@ -121,6 +131,11 @@ bristol_tales:
   img: "/img/port/eagle/bris2.png"
   class: "blob"
 
+bristol_tales?:
+  name: "Бристоль"
+  img: "/img/port/eagle/bris2.png"
+  class: "blob"
+
 brooklyn:
   name: "Бруклин"
   img: "/img/port/eagle/broo1.png"
@@ -156,6 +171,21 @@ clarence_k_bronson:
 cleveland:
   name: "Кливленд"
   img: "/img/port/eagle/clev1.png"
+  class: "blob"
+
+collett:
+  name: "Коллетт"
+  img: "/img/port/eagle/coll1.webp"
+  class: "blob"
+
+collett_rad:
+  name: "📡Коллетт"
+  img: "/img/port/eagle/coll1rad.webp"
+  class: "blob"
+
+collett?:
+  name: "Коллетт?"
+  img: "/img/port/eagle/coll1.webp"
   class: "blob"
 
 columbia:
@@ -268,6 +298,16 @@ hammann_ii_rad:
   img: "/img/port/eagle/hammii1rad.png"
   class: "blob"
 
+harrison:
+  name: "Харрисон"
+  img: "/img/port/eagle/harr1.webp"
+  class: "blob"
+
+harrison_rad:
+  name: "📡Харрисон"
+  img: "/img/port/eagle/harr1rad.webp"
+  class: "blob"
+
 helena:
   name: "Хелена"
   img: "/img/port/eagle/hele1.png"
@@ -361,6 +401,16 @@ jenkins:
 juneau:
   name: "Джуно"
   img: "/img/port/eagle/june1.png"
+  class: "blob"
+
+john_rodgers:
+  name: "Джон Роджерс"
+  img: "/img/port/eagle/john1.webp"
+  class: "blob"
+
+john_rodgers_rad:
+  name: "📡Джон Роджерс"
+  img: "/img/port/eagle/john1rad.webp"
   class: "blob"
 
 # L
@@ -534,6 +584,16 @@ saratoga_kai:
   img: "/img/port/eagle/sara1kai.png"
   class: "blob"
 
+saratoga_morning:
+  name: "Саратога"
+  img: "/img/port/eagle/sara1morn.webp"
+  class: "blob"
+
+saratoga_morning_rad:
+  name: "📡Саратога"
+  img: "/img/port/eagle/sara1mornrad.webp"
+  class: "blob"
+
 shangri_la:
   name: "Шангри-Ла"
   img: "/img/port/eagle/shan1.png"
@@ -561,6 +621,21 @@ ticonderoga:
 vestal:
   name: "Вестал"
   img: "/img/port/eagle/vest1.png"
+  class: "blob"
+
+vicksburg:
+  name: "Виксберг"
+  img: "/img/port/eagle/vick1.webp"
+  class: "blob"
+
+vicksburg_rad:
+  name: "📡Виксберг"
+  img: "/img/port/eagle/vick1rad.webp"
+  class: "blob"
+
+vicksburg???:
+  name: "???"
+  img: "/img/port/eagle/vick1.webp"
   class: "blob"
 
 # W
@@ -2983,6 +3058,21 @@ pamiat_merkuria_kai:
   img: "/img/port/northern/pami1kai.png"
   class: "blob"
 
+pamiat_merkuria_cherry:
+  name: "Память Меркурия"
+  img: "/img/port/northern/pami1cherry.webp"
+  class: "blob"
+
+pamiat_merkuria_pick:
+  name: "Память Меркурия"
+  img: "/img/port/northern/pami1pick.webp"
+  class: "blob"
+
+pamiat_merkuria_pick_rad:
+  name: "📡Память Меркурия"
+  img: "/img/port/northern/pami1pickrad.webp"
+  class: "blob"
+
 pamiat_merkuria???d:
   name: "? ? ?"
   img: "/img/port/northern/pami1d.png"
@@ -3058,6 +3148,16 @@ sovetsky_soyuz_rad:
 soobrazitelny:
   name: "Сообразительный"
   img: "/img/port/northern/soob1.png"
+  class: "blob"
+
+soobrazitelny_mach:
+  name: "Сообразительный"
+  img: "/img/port/northern/soob1mach.webp"
+  class: "blob"
+
+soobrazitelny_mach_rad:
+  name: "📡Сообразительный"
+  img: "/img/port/northern/soob1machrad.webp"
   class: "blob"
 
 stremitelny:
@@ -3713,6 +3813,11 @@ essex_meta:
   img: "/img/port/meta/esse1.png"
   class: "blob"
 
+essex_meta_rad:
+  name: "📡Эссекс МЕТА"
+  img: "/img/port/meta/esse1rad.webp"
+  class: "blob"
+
 essex_meta?:
   name: "Эссекс?"
   img: "/img/port/meta/esse1.png"
@@ -3933,6 +4038,21 @@ rodney_meta:
   img: "/img/port/meta/rodn1.png"
   class: "blob"
 
+rodney_meta_1:
+  name: "Родни"
+  img: "/img/port/meta/rodn1.png"
+  class: "blob"
+
+saratoga_meta:
+  name: "Саратога МЕТА"
+  img: "/img/port/meta/sara1.webp"
+  class: "blob"
+
+saratoga_meta_rad:
+  name: "📡Саратога МЕТА"
+  img: "/img/port/meta/sara1rad.webp"
+  class: "blob"
+
 scharnhorst_meta:
   name: "Шарнхорст МЕТА"
   img: "/img/port/meta/scha1.png"
@@ -3961,6 +4081,16 @@ sheffield_meta:
 sheffield_meta_rad:
   name: "📡Шеффилд META"
   img: "/img/port/meta/shef1rad.png"
+  class: "blob"
+
+soobrazitelny_meta:
+  name: "Сообразительный META"
+  img: "/img/port/meta/soob1.webp"
+  class: "blob"
+
+soobrazitelny_meta_rad:
+  name: "📡Сообразительный META"
+  img: "/img/port/meta/soob1rad.webp"
   class: "blob"
 
 souryuu_meta:
@@ -4178,6 +4308,11 @@ zero:
 
 zero_tb:
   name: "Обсервер Зеро"
+  img: "/img/port/other/zero1.png"
+  class: "blob"
+
+zero_tb?:
+  name: "?"
   img: "/img/port/other/zero1.png"
   class: "blob"
 
@@ -4578,6 +4713,11 @@ bon_omm_richard_rad:
   img: "/img/port/meta/bonh1rad.png"
   class: "blob"
 
+bon_omm_richard_d_voice:
+  name: "Неизвестный голос"
+  img: "/img/port/meta/bonh1d.webp"
+  class: "blob"
+
 bon_omm_richard1:
   name: "Бон Омм Ричард"
   img: "/img/port/meta/bonh2.png"
@@ -4586,6 +4726,11 @@ bon_omm_richard1:
 bon_omm_richard2:
   name: "Бон Омм Ричард"
   img: "/img/port/meta/bonh3.png"
+  class: "blob"
+
+bon_omm_richard2_rad:
+  name: "📡Бон Омм Ричард"
+  img: "/img/port/meta/bonh3rad.webp"
   class: "blob"
 
 bon_omm_richard2?:
@@ -4666,4 +4811,69 @@ ad_voice:
 voice_an:
   name: "Система общего оповещения"
   img: "/img/port/other/nop.png"
+  class: "blob"
+
+eyewitness_yellow:
+  name: "Жёлтый очевидец"
+  img: "/img/port/other/eyew1.webp"
+  class: "blob"
+
+aristocrat_yellow:
+  name: "Жёлтый аристократ"
+  img: "/img/port/other/eyew1.webp"
+  class: "blob"
+
+administrator_yellow:
+  name: "Жёлтый администратор"
+  img: "/img/port/other/eyew1.webp"
+  class: "blob"
+
+administrator_blue:
+  name: "Синий администратор"
+  img: "/img/port/other/admi1.webp"
+  class: "blob"
+
+security_guard_red:
+  name: "Красный охранник"
+  img: "/img/port/other/secu1.webp"
+  class: "blob"
+
+administrator_grey:
+  name: "Серый администратор"
+  img: "/img/port/other/admg1.webp"
+  class: "blob"
+
+beggar_blue:
+  name: "Синий нищий"
+  img: "/img/port/other/admi1.webp"
+  class: "blob"
+
+juvenile_black:
+  name: "Чёрный подросток"
+  img: "/img/port/other/juve1.webp"
+  class: "blob"
+
+administrator_black:
+  name: "Чёрный администратор"
+  img: "/img/port/other/juve1.webp"
+  class: "blob"
+
+administrator_red:
+  name: "Красный администратор"
+  img: "/img/port/other/secu1.webp"
+  class: "blob"
+
+administrator_green:
+  name: "Зелёный администратор"
+  img: "/img/port/other/tail1.webp"
+  class: "blob"
+
+tailor_green:
+  name: "Зелёный портной"
+  img: "/img/port/other/tail1.webp"
+  class: "blob"
+
+error_xiii:
+  name: "Ошибка XIII"
+  img: "/img/port/other/exiii.webp"
   class: "blob"

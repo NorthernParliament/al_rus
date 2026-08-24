@@ -494,8 +494,15 @@
   arc: "05 Интерлюдия"
 
 - title_ru: "Судьбоносная встреча"
-  title_en: "Alliance Before the Hagiobull"
+  title_en: "Fateful Encounter"
   slug: "fateful_encounter"
   image: "/img/main/fateful_encounter.webp" 
   desc: "Если некоторым встречам суждено состояться, то неизбежны и грядущие за ними испытания. И всё же ты здесь гость. Что же до тех, кого сюда не приглашали — назовите цель своего визита."
+  arc: "05 Интерлюдия"
+
+- title_ru: "Глубины Астрариума"
+  title_en: "Depths of the Astrarium"
+  slug: "depths_of_the_astrarium"
+  image: "/img/main/depths_of_the_astrarium.webp" 
+  desc: "«Тысяча слов, тысяча лиц. Обманчивый лик, зачарованное сердце. О странники, соберитесь здесь. О грёзы, вознеситесь здесь. Всех, кто сбился с пути, мы приветствуем в Астрариуме»."
   arc: "05 Интерлюдия"
