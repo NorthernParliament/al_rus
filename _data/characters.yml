@@ -1270,6 +1270,16 @@ amaginop:
   img: "/img/port/other/nop.png"
   class: "blob"
 
+asanagi:
+  name: "Асанаги"
+  img: "/img/port/sakura/asan1.webp"
+  class: "blob"
+
+asanagi_rad:
+  name: "📡Асанаги"
+  img: "/img/port/sakura/asan1rad.webp"
+  class: "blob"
+
 ashigara:
   name: "Асигара"
   img: "/img/port/sakura/ashi1.png"
@@ -1379,6 +1389,16 @@ hatakaze:
   img: "/img/port/sakura/hata1.png"
   class: "blob"
 
+hatsuzuki:
+  name: "Хацудзуки"
+  img: "/img/port/sakura/hats1.webp"
+  class: "blob"
+
+hatsuzuki_rad:
+  name: "📡Хацудзуки"
+  img: "/img/port/sakura/hats1rad.webp"
+  class: "blob"
+
 hibiki:
   name: "Хибики"
   img: "/img/port/sakura/hibi1.png"
@@ -1429,6 +1449,21 @@ i26:
 i58:
   name: "I-58"
   img: "/img/port/sakura/i581.png"
+  class: "blob"
+
+ibuki:
+  name: "Ибуки"
+  img: "/img/port/sakura/ibuk1.webp"
+  class: "blob"
+
+ibuki_rad:
+  name: "📡Ибуки"
+  img: "/img/port/sakura/ibuk1rad.webp"
+  class: "blob"
+
+ibuki_newyear:
+  name: "Ибуки"
+  img: "/img/port/sakura/ibuk1new.webp"
   class: "blob"
 
 ikazuchi:
@@ -1608,6 +1643,16 @@ minazuki:
   img: "/img/port/sakura/mina1.png"
   class: "blob"
 
+michishio:
+  name: "Мичисио"
+  img: "/img/port/sakura/mich1.webp"
+  class: "blob"
+
+michishio_rad:
+  name: "📡Мичисио"
+  img: "/img/port/sakura/mich1rad.webp"
+  class: "blob"
+
 miyuki:
   name: "Миюки"
   img: "/img/port/sakura/miyu1.png"
@@ -1655,6 +1700,16 @@ naka:
   img: "/img/port/sakura/naka1.png"
   class: "blob"
 
+natori:
+  name: "Натори"
+  img: "/img/port/sakura/nato1.webp"
+  class: "blob"
+
+natori_rad:
+  name: "📡Натори"
+  img: "/img/port/sakura/nato1rad.webp"
+  class: "blob"
+
 niizuki:
   name: "Ниизуки"
   img: "/img/port/sakura/niiz1.png"
@@ -1678,6 +1733,18 @@ noshiro?:
 nowaki:
   name: "Новаки"
   img: "/img/port/sakura/nowa1.png"
+  class: "blob"
+
+# O
+
+owari:
+  name: "Овари"
+  img: "/img/port/sakura/owar1.webp"
+  class: "blob"
+
+owari_rad:
+  name: "📡Овари"
+  img: "/img/port/sakura/owar1rad.webp"
   class: "blob"
 
 # R
@@ -1717,6 +1784,16 @@ shimakaze:
 shimakaze_rad:
   name: "📡Симакадзэ"
   img: "/img/port/sakura/shim1rad.png"
+  class: "blob"
+
+shimanto:
+  name: "Симанто"
+  img: "/img/port/sakura/shima1.webp"
+  class: "blob"
+
+shimanto_rad:
+  name: "📡Симанто"
+  img: "/img/port/sakura/shima1rad.webp"
   class: "blob"
 
 shinano:
@@ -1828,6 +1905,26 @@ umikaze_rad:
   img: "/img/port/sakura/umik1rad.png"
   class: "blob"
 
+unzen:
+  name: "Ундзэн"
+  img: "/img/port/sakura/unze1.webp"
+  class: "blob"
+
+unzen_rad:
+  name: "📡Ундзэн"
+  img: "/img/port/sakura/unze1rad.webp"
+  class: "blob"
+
+unzen_s:
+  name: "Великий Мудрец"
+  img: "/img/port/sakura/unze1.webp"
+  class: "blob"
+
+unzen???:
+  name: "???"
+  img: "/img/port/sakura/unze1.webp"
+  class: "blob"
+
 # w
 
 wakatsuki:
@@ -1908,6 +2005,16 @@ yura_rad:
   class: "blob"
 
 # Z
+
+zuihou:
+  name: "Дзуйхо"
+  img: "/img/port/sakura/zuih1.webp"
+  class: "blob"
+
+zuihou_rad: 
+  name: "📡Дзуйхо"
+  img: "/img/port/sakura/zuih1rad.webp"
+  class: "blob"
 
 zuikaku:
   name: "Дзуйкаку"
@@ -4810,6 +4917,11 @@ ad_voice:
 
 voice_an:
   name: "Система общего оповещения"
+  img: "/img/port/other/nop.png"
+  class: "blob"
+
+distories_noise:
+  name: "Крики из толпы"
   img: "/img/port/other/nop.png"
   class: "blob"
 

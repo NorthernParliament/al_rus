@@ -472,6 +472,13 @@
   desc: "Под покровом ночи жители империи Сакуры вспоминают великую битву многолетней давности."
   arc: "03 Третья часть"
 
+- title_ru: "Сияние перед затмением"
+  title_en: "Effulgence Before Eclipse"
+  slug: "effulgence_before_eclipse"
+  image: "/img/main/effulgence_before_eclipse.webp" 
+  desc: "Одно лишь мгновение под лунным светом, в тихом уголке сада... Кто же коснулся струн её сердца?"
+  arc: "03 Третья часть"
+
 - title_ru: "Послание, пробившее Небосвод"
   title_en: "A Note Through the Firmament"
   slug: "a_note_through_the_firmament"
